@@ -1,3 +1,6 @@
+
+print("Works?")
+
 MODS = {
     [2232442008] = true; --vLightzy_onTTV
     [1497475266] = true; --Rival/Aise
